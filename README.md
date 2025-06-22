@@ -6,3 +6,5 @@ This project uses deep learning to classify chest X-ray images as Normal or Pneu
 - CNN model for binary classification  
 - Evaluation using accuracy, precision, recall, and confusion matrix
 
+Dataset Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
